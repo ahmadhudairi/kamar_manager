@@ -1,0 +1,32 @@
+{
+  "kamars": [
+    {
+      "id": 1,
+      "nama_kamar": "Cocoon",
+      "tarif": 4500000,
+      "jenis_kamar": "Standart-Room",
+      "status": "Booking"
+    },
+    {
+      "id": 2,
+      "nama_kamar": "Grande",
+      "status": "Booking",
+      "tarif": "90000000000000",
+      "jenis_kamar": "Standart-Room"
+    },
+    {
+      "id": "fd069389-0357-4469-a25d-f459bbe9efdc",
+      "nama_kamar": "Gladak",
+      "status": "Reserv",
+      "jenis_kamar": "Luxury",
+      "tarif": "450000000"
+    },
+    {
+      "id": "2548c0f3-b321-4634-8f3b-c2df52da3169",
+      "nama_kamar": "Presidensial",
+      "status": "Reserved",
+      "jenis_kamar": "Luxury",
+      "tarif": "80000000"
+    }
+  ]
+}
